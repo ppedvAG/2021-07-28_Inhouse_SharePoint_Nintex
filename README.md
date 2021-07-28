@@ -1,46 +1,38 @@
-# KURS NAME
+# Inhouse - Stadt Mannheim - SharePoint 2019 und Nintex 2019
 
 Ein Kurs von PPEDV :rocket:
 
 ## INTERN, dieses Kapitel vor der Schulung löschen
 
-### gitignore
-
-gitignore in diesem Template ist an Visual Studio und damit auch an VSCode angepasst.
-
-### about
-
-Füge diesen Text zum Abschnitt 'About' bei dem Repository direkt auf GitHub hinzu. Den Abschnitt findest Du oben rechts, wenn das Repo geöffnet ist.
-
-`DATUM: xx.xx.2021. ORT: virtual Classroom / Präsenzschulung. FORMAT: Vollzeit / Teilzeit.`
-
-### website
-
-Auch durch 'About'-Button kommst Du zum Feld 'Website'. Gebe dort den Link zum Kursblatt Deiner Schulung auf ppedv.de an.
-
-### topics
-
-Auch durch 'About'-Button kommst Du zum Feld 'Topics'. Gebe dort bitte die Themen der Schulung an.
-
-### readme.md
-
-Nachdem du ein Repo für ein konkretes Datum anhand von diesem Template erstellt hast, füge hier den Inhalt von der README.md Datei aus PPKURS-deinThema ein. Ungefähr in folgender syntax.
-
-## M000 | WARMING UP
+## `28.07.` | Berechtigungen und Features im SharePoint 2019
 
 - [ ] Folien: [Greeter.pdf](m000/platzhalter.md)
 - [ ] Demo:
 - [ ] Lab:
 - [ ] Commit:
   
-## M001 | GETTING STARTED
+## `29.07.` | tba
 
 - [ ] Folien: DeinThema.pdf > Intro
 - [ ] Demo:
 - [ ] Lab:
 - [ ] Commit:
 
-## MXXX | `name vom modul`
+## `30.07.` | tba
+
+- [ ] Folien:
+- [ ] Demo:
+- [ ] Lab:
+- [ ] Commit:
+
+## `05.08.` | tba
+
+- [ ] Folien:
+- [ ] Demo:
+- [ ] Lab:
+- [ ] Commit:
+
+## `06.08.` | tba
 
 - [ ] Folien:
 - [ ] Demo:
