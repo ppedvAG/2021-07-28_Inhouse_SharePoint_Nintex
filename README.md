@@ -5,6 +5,7 @@ Ein Kurs von PPEDV :rocket:
 ## `SharePoint` Schulungsunterlage
 
 - [ ] [SharePoint.pdf](Unterlagen/SharePoint.pdf)
+- [ ] [SharePoint_Design.pdf](Unterlagen/SharePoint_Design.pdf)
 
 ## `28.07.` | Berechtigungen und Features im SharePoint 2019
 
