@@ -8,10 +8,10 @@ Ein Kurs von PPEDV :rocket:
 
 ## `28.07.` | Berechtigungen und Features im SharePoint 2019
 
-- [ ] [SharePoint Struktur.png](Whiteboard/SharePoint Struktur.png)
-- [ ] [Rheinwerk SharePoint Handbuch.url](Links/Bücher Recherche/Rheinwerk SharePoint Handbuch.url)
-- [ ] [Herdt SharePoint Kollaboration Intranet.url](Links/Bücher Recherche/Herdt SharePoint Kollaboration Intranet.url)
-- [ ] [SharePoint Analyse Tool.url](Links/SharePoint Analyse Tool.url)
+- [ ] [SharePoint Struktur.png](Whiteboard/SharePoint%20Struktur.png)
+- [ ] [Rheinwerk SharePoint Handbuch.url](Links/Bücher%20Recherche/Rheinwerk%20SharePoint%20Handbuch.url)
+- [ ] [Herdt SharePoint Kollaboration Intranet.url](Links/Bücher%20Recherche/Herdt%20SharePoint%20Kollaboration%20Intranet.url)
+- [ ] [SharePoint Analyse Tool.url](Links/SharePoint%20Analyse%20Tool.url)
   
 ## `29.07.` | tba
 
