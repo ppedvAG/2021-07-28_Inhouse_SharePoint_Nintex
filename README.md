@@ -2,14 +2,16 @@
 
 Ein Kurs von PPEDV :rocket:
 
-## INTERN, dieses Kapitel vor der Schulung löschen
+## `SharePoint` Schulungsunterlage
+
+- [ ] [SharePoint.pdf](Unterlagen/SharePoint.pdf)
 
 ## `28.07.` | Berechtigungen und Features im SharePoint 2019
 
-- [ ] Folien: [Greeter.pdf](m000/platzhalter.md)
-- [ ] Demo:
-- [ ] Lab:
-- [ ] Commit:
+- [ ] [SharePoint Struktur.png](Whiteboard/SharePoint Struktur.png)
+- [ ] [Rheinwerk SharePoint Handbuch.url](Links/Bücher Recherche/Rheinwerk SharePoint Handbuch.url)
+- [ ] [Herdt SharePoint Kollaboration Intranet.url](Links/Bücher Recherche/Herdt SharePoint Kollaboration Intranet.url)
+- [ ] [SharePoint Analyse Tool.url](Links/SharePoint Analyse Tool.url)
   
 ## `29.07.` | tba
 
