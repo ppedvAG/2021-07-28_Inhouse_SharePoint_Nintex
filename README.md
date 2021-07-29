@@ -6,20 +6,18 @@ Ein Kurs von PPEDV :rocket:
 
 - [ ] [SharePoint.pdf](Unterlagen/SharePoint.pdf)
 - [ ] [SharePoint_Design.pdf](Unterlagen/SharePoint_Design.pdf)
+- [ ] [Excel.xlsx](Unterlagen/Excel.xlsx)
 
 ## `28.07.` | Berechtigungen und Features im SharePoint 2019
 
-- [ ] [SharePoint Struktur.png](Whiteboard/SharePoint%20Struktur.png)
+- [ ] [01 SharePoint Struktur.png](Whiteboard/01%20SharePoint%20Struktur.png)
 - [ ] [Rheinwerk SharePoint Handbuch.url](Links/Bücher%20Recherche/Rheinwerk%20SharePoint%20Handbuch.url)
 - [ ] [Herdt SharePoint Kollaboration Intranet.url](Links/Bücher%20Recherche/Herdt%20SharePoint%20Kollaboration%20Intranet.url)
 - [ ] [SharePoint Analyse Tool.url](Links/SharePoint%20Analyse%20Tool.url)
   
-## `29.07.` | tba
+## `29.07.` | Struktur, Navigation, Listen und Sichten
 
-- [ ] Folien: DeinThema.pdf > Intro
-- [ ] Demo:
-- [ ] Lab:
-- [ ] Commit:
+- [ ] [02 SharePoint Navigation.png](Whiteboard/02%20SharePoint%20Navigation.png)
 
 ## `30.07.` | tba
 
