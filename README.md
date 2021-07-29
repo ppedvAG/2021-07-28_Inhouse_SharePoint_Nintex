@@ -21,10 +21,7 @@ Ein Kurs von PPEDV :rocket:
 
 ## `30.07.` | tba
 
-- [ ] Folien:
-- [ ] Demo:
-- [ ] Lab:
-- [ ] Commit:
+- [ ] [03 SharePoint Insgesamt.png](Whiteboard/03%20SharePoint%20Insgesamt.png)
 
 ## `05.08.` | tba
 
