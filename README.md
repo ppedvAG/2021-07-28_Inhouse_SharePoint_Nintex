@@ -19,7 +19,7 @@ Ein Kurs von PPEDV :rocket:
 
 - [ ] [02 SharePoint Navigation.png](Whiteboard/02%20SharePoint%20Navigation.png)
 
-## `30.07.` | tba
+## `30.07.` | Metadaten-Navigation, Versionierung und Zusatz-Features für den Alltag
 
 - [ ] [03 SharePoint Insgesamt.png](Whiteboard/03%20SharePoint%20Insgesamt.png)
 
