@@ -4,6 +4,13 @@ Ein Kurs von PPEDV :rocket:
 
 ## `SharePoint` Schulungsunterlage
 
+- [ ] [Nintex PowerPoints](Nintex/PowerPoint/)
+- [ ] [Nintex Links](Nintex/Links/)
+- [ ] [Nintex Whiteboard](Nintex/Whiteboard/)
+- [ ] [Nintex Workflows](Nintex/WWorkflows/)
+
+## `Nintex` Schulungsunterlage
+
 - [ ] [SharePoint.pdf](Unterlagen/SharePoint.pdf)
 - [ ] [SharePoint_Design.pdf](Unterlagen/SharePoint_Design.pdf)
 - [ ] [Excel.xlsx](Unterlagen/Excel.xlsx)
@@ -23,16 +30,17 @@ Ein Kurs von PPEDV :rocket:
 
 - [ ] [03 SharePoint Insgesamt.png](Whiteboard/03%20SharePoint%20Insgesamt.png)
 
-## `05.08.` | tba
+## `05.08.` | Nintex Grundlagen und Einführung in Konzeptionen von Workflows
 
-- [ ] Folien:
-- [ ] Demo:
-- [ ] Lab:
-- [ ] Commit:
+- [ ] [Nintex AnfangsPPT](Nintex/PowerPoint/Nintex%20Beginn.pptx)
+- [ ] [Nintex Links](Nintex/Links/)
+- [ ] [Nintex Whiteboard](Nintex/Whiteboard/)
+- [ ] [Nintex Workflows](Nintex/WWorkflows/)
 
-## `06.08.` | tba
+## `06.08.` | Nintex Umsetzung > Arbeiten mit Collections und listen-übergreifenden Workflows
 
-- [ ] Folien:
-- [ ] Demo:
-- [ ] Lab:
-- [ ] Commit:
+- [ ] [Nintex Collections](Nintex/PowerPoint/Nintex%20Collection.pptx)
+- [ ] [Nintex Urlaub](Nintex/PowerPoint/Nintex%20Urlaub.pptx)
+- [ ] [Nintex Links](Nintex/Links/)
+- [ ] [Nintex Whiteboard](Nintex/Whiteboard/)
+- [ ] [Nintex Workflows](Nintex/WWorkflows/)
