@@ -37,7 +37,7 @@ Ein Kurs von PPEDV :rocket:
 - [ ] [Nintex Whiteboard](Nintex/Whiteboard/)
 - [ ] [Nintex Workflows](Nintex/WWorkflows/)
 
-## `06.08.` | Nintex Umsetzung > Arbeiten mit Collections und listen-übergreifenden Workflows
+## `06.08.` | Nintex Umsetzung > Collections und listen-übergreifenden Workflows
 
 - [ ] [Nintex Collections](Nintex/PowerPoint/Nintex%20Collection.pptx)
 - [ ] [Nintex Urlaub](Nintex/PowerPoint/Nintex%20Urlaub.pptx)
